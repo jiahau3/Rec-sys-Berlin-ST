@@ -1,0 +1,10 @@
+__pycache__/
+Berlin_Grocery_products.csv
+edeka_scrap/
+experiment.ipynb
+package-list.txt
+page_source.py
+product.py
+final_matrix_f64.npy
+final_matrix_f64_noP.npy
+3_task_4_no_duplicates.csv
